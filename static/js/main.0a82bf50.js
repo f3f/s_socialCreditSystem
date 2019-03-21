@@ -53133,9 +53133,9 @@
             ? console.error('This platform does NOT support WebGL.')
             : console.log(
                 [
-                  'Jusfoun 3D Engine Library v0.1.0',
-                  'Jusfoun Visualization Department ' + new Date().getFullYear(),
-                  'http://vis.jusfoun.com'
+                  'idataink 3D Engine Library v0.1.0',
+                  'idataink Visualization Department ' + new Date().getFullYear(),
+                  'http://vis.idataink.com'
                 ].join('\n')
               )
         },
@@ -100314,9 +100314,9 @@
             ? console.error('This platform does NOT support WebGL.')
             : console.log(
                 [
-                  'Jusfoun 3D Engine Library v0.1.0',
-                  'Jusfoun Visualization Department ' + new Date().getFullYear(),
-                  'http://vis.jusfoun.com'
+                  'idataink 3D Engine Library v0.1.0',
+                  'idataink Visualization Department ' + new Date().getFullYear(),
+                  'http://vis.idataink.com'
                 ].join('\n')
               )
         },
